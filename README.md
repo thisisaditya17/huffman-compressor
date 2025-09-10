@@ -31,7 +31,7 @@ Download `huffman-compressor-1.0.0.jar` from the releases section.
 #### Option 2: Build from Source
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/thisisaditya17/huffman-compressor
 cd huffman-compressor
 mvn clean package
 ```
