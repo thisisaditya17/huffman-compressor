@@ -1,0 +1,80 @@
+A rhyme is a repetition of similar sounds (usually the exact same phonemes) in the final stressed syllables and any following syllables of two or more words. Most often, this kind of rhyming (perfect rhyming) is consciously used for a musical or aesthetic effect in the final position of lines within poems or songs.[1] More broadly, a rhyme may also variously refer to other types of similar sounds near the ends of two or more words. Furthermore, the word rhyme has come to be sometimes used as a shorthand term for any brief poem, such as a nursery rhyme or Balliol rhyme.
+
+Etymology
+The word derives from Old French: rime or ryme, which might be derived from Old Frankish: rīm, a Germanic term meaning "series", or "sequence" attested in Old English (Old English: rīm meaning "enumeration", series", or "numeral") and Old High German: rīm, ultimately cognate to Old Irish: rím, Ancient Greek: ἀριθμός (arithmos "number"). Alternatively, the Old French words may derive from Latin: rhythmus, from Ancient Greek: ῥυθμός (rhythmos, rhythm).[2][3]
+
+The spelling rhyme (from the original rime) was introduced at the beginning of the Modern English period from a scholarly but likely etymologically incorrect association with Latin rhythmus.[2] The older spelling rime survives in Modern English as a rare alternative spelling; cf. The Rime of the Ancient Mariner. A distinction between the spellings is also sometimes made in the study of linguistics and phonology for which rime or rhyme is used to refer to the nucleus and coda of a syllable. Some prefer to spell it rime to distinguish it from the poetic rhyme covered by this article (see syllable rime).
+
+Function of rhyming words
+Rhyme partly seems to be enjoyed simply as a repeating pattern that is pleasant to hear. Rhyme is a form of art that one can use to communicate to the reader or audience.[4] It also serves as a powerful mnemonic device, facilitating short-term memory.[5] The regular use of tail rhyme helps to mark off the ends of lines, thus clarifying the metrical structure for the listener. As with other poetic techniques, poets use it to suit their own purposes; for example, William Shakespeare often used a rhyming couplet to mark off the end of a scene in a play.
+
+Types of rhyme
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (January 2012) (Learn how and when to remove this message)
+The word rhyme can be used in a specific and a general sense. In the specific sense, two words rhyme if their final stressed vowel and all following sounds are identical; two lines of poetry rhyme if their final strong positions are filled with rhyming words. Examples are sight and flight, deign and gain, madness and sadness, love and dove.
+
+Perfect rhymes
+Main article: Perfect rhyme
+Perfect rhymes can be classified by the location of the final stressed syllable.
+
+single, also known as masculine: a rhyme in which the stress is on the final syllable of the words (rhyme, sublime)
+double, also known as feminine: a rhyme in which the stress is on the penultimate (second from last) syllable of the words (picky, tricky)
+dactylic: a rhyme in which the stress is on the antepenultimate (third from last) syllable (amorous, glamorous)
+Feminine and dactylic rhymes may also be realized as compound (or mosaic) rhymes (poet, know it).
+
+General rhymes
+In the general sense, general rhyme can refer to various kinds of phonetic similarity between words, and the use of such similar-sounding words in organizing verse. Rhymes in this general sense are classified according to the degree and manner of the phonetic similarity:
+
+syllabic: a rhyme in which the last syllable of each word sounds the same but does not necessarily contain stressed vowels. (cleaver, silver, or pitter, patter; the final syllable of the words bottle and fiddle is /l/, a liquid consonant.)
+imperfect (or near): a rhyme between a stressed and an unstressed syllable. (wing, caring)
+weak (or unaccented): a rhyme between two sets of one or more unstressed syllables. (hammer, carpenter)
+semirhyme: a rhyme with an extra syllable on one word. (bend, ending)
+forced (or oblique): a rhyme with an imperfect match in sound. (green, fiend; one, thumb)
+assonance: matching vowels. (shake, hate) Assonance is sometimes referred to as slant rhymes, along with consonance.
+consonance: matching consonants. (rabies, robbers)
+half rhyme (or slant rhyme): matching final consonants. (hand , lend)
+pararhyme: all consonants match. (tick, tock)
+alliteration (or head rhyme): matching initial consonants. (ship, short)
+Identical rhymes
+Identical rhymes are considered less than perfect in English poetry; but are valued more highly in other literatures such as, for example, rime riche in French poetry.
+
+Though homophones and homonyms satisfy the first condition for rhyming—that is, that the stressed vowel sound is the same—they do not satisfy the second: that the preceding consonant be different. In a perfect rhyme, the last stressed vowel and all following sounds are identical in both words.
+
+If the sound preceding the stressed vowel is also identical, the rhyme is sometimes considered to be inferior and not a perfect rhyme after all.[6][7] An example of such a super-rhyme or "more than perfect rhyme" is the identical rhyme, in which not only the vowels but also the onsets of the rhyming syllables are identical, as in gun and begun. Punning rhymes, such as bare and bear are also identical rhymes. The rhyme may extend even farther back than the last stressed vowel. If it extends all the way to the beginning of the line, so that there are two lines that sound very similar or identical, it is called a holorhyme ("For I scream/For ice cream").
+
+In poetics these would be considered identity, rather than rhyme.
+
+Eye rhyme
+Main article: Eye rhyme
+Eye rhymes or sight rhymes or spelling rhymes refer to similarity in spelling but not in sound where the final sounds are spelled identically but pronounced differently.[8] Examples in English are cough, bough, and love, move.
+
+Some early written poetry appears to contain these, but in many cases the words used rhymed at the time of writing, and subsequent changes in pronunciation have meant that the rhyme is now lost.
+
+Mind rhyme
+Main article: Mind rhyme
+Mind rhyme is a kind of substitution rhyme similar to rhyming slang, but it is less generally codified and is "heard" only when generated by a specific verse context. For instance, "this sugar is neat / and tastes so sour." If a reader or listener anticipates the word "sweet" instead of "sour", a mind rhyme has occurred.
+
+Classification by position
+Rhymes may be classified according to their position in the verse:
+
+Tail rhyme (also called end rhyme or rime couée) is a rhyme in the final syllable(s) of a verse (the most common kind).
+Internal rhyme occurs when a word or phrase in the interior of a line rhymes with a word or phrase at the end of a line, or within a different line.
+Off-centered rhyme is a type of internal rhyme occurring in unexpected places in a given line. This is sometimes called a misplaced-rhyme scheme or a spoken word rhyme style.
+Holorime, mentioned above, occurs when two entire lines have the same sound.
+Echo rhyme occurs when the same syllable endings are utilized (example: disease/ease).
+Broken rhyme is a type of enjambement producing a rhyme by dividing a word at the line break of a poem to make a rhyme with the end word of another line.
+Cross rhyme matches a sound or sounds at the end of a line with the same sound or sounds in the middle of the following (or preceding) line.[8]
+A rhyme scheme is the pattern of rhyming lines in a poem.
+
+History
+Exclamation mark with arrows pointing at each other
+This article or section appears to contradict itself. Please see the talk page for more information. (June 2024)
+In many languages, including modern European languages and Arabic, poets use rhyme in set patterns as a structural element for specific poetic forms, such as ballads, sonnets and rhyming couplets. Some rhyming schemes have become associated with a specific language, culture or period, while other rhyming schemes have achieved use across languages, cultures or time periods. However, the use of structural rhyme is not universal even within the European tradition. Much modern poetry avoids traditional rhyme schemes.
+
+The earliest surviving evidence of rhyming is the Chinese Shi Jing (ca. 10th century BCE). Rhyme is also occasionally used in the Bible.[9] In classical Greek and Latin poetry, rhyme was only an occasional feature.[10] For instance, Catullus includes partial rhymes in the poem Cui dono lepidum novum libellum.[11] The ancient Greeks knew rhyme, and rhymes in The Wasps by Aristophanes are noted by a translator.[12]
+
+Rhyme became a permanent - even obligatory - feature of poetry in Hebrew language, around the 4th century CE. It is found in the Jewish liturgical poetry written in the Byzantine empire era. This was realized by scholars only recently, thanks to the thousands of piyyuts that have been discovered in the Cairo Geniza. It is assumed that the principle of rhyme was transferred from Hebrew liturgical poetry to the poetry of the Syriac Christianity (written in Aramaic), and through this mediation introduced into Latin poetry and then into all other languages of Europe.[13]
+
+Rhyme is central to classical Arabic poetry tracing back to its pre-Islamic roots. According to some archaic sources, Irish literature introduced the rhyme to Early Medieval Europe, but that is a disputed claim.[14] In the 7th century, the Irish had brought the art of rhyming verses to a high pitch of perfection. The leonine verse is notable for introducing rhyme into High Medieval literature in the 12th century.
+
+Rhyme entered European poetry in the High Middle Ages under the influence of the Arabic language in Al Andalus (modern Spain).[15] Arabic language poets used rhyme extensively from the first development of literary Arabic in the sixth century, as in their long, rhyming qasidas.[16]
